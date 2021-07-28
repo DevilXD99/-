@@ -6,3 +6,4 @@ elseif placeId == 2753915549 or 4442272183 then -- Blox Fruit
 loadstring(game:HttpGet('https://raw.githubusercontent.com/MAZIHUB191/ANOMYMOUS-HUB/main/BF'))()
 end
 end)
+ 
